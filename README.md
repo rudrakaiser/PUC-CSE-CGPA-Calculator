@@ -42,7 +42,7 @@ A web-based GPA calculator designed for the **Computer Science and Engineering D
 
    1. Clone the repository:
       ```bash
-      git clone https://github.com/rudra-404/PUC_CSE_CGPA_Calculator.git
+      git clone https://github.com/rudra-404/PUC-CSE-CGPA-Calculator.git
       ```
    2. Open `index.html` in your browser.
    3. Select your semester.
